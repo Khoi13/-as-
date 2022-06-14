@@ -1,0 +1,12 @@
+html {
+    height: 670px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    letter-spacing: 5px;
+    font-family: jetbrains mono;
+    font-size: 160px;
+}
